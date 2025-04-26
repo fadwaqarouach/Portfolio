@@ -12,8 +12,8 @@ const Home = () => {
                 </h1>
 
                 <p className="my-4 text-md text-center md:text-left">
-                Je suis une développeuse fullstack avec une expertise en Python, JavaScript, React et Node.js. 
-                <br /> Forte de plusieurs expériences en développement web et administration systèmes, je suis passionnée par la cybersécurité et les solutions cloud. 
+                Je suis développeuse web back-end spécialisée en Laravel, Node.js et bases de données 
+                <br /> Avec une solide expérience en développement d'APIs, en administration systèmes, je propose des solutions web modernes et sécurisées 
                 <br /> Contactez-moi si vous avez besoin de mes services !
                 </p>
                 <a href="mailto:qarouach.fadwa@gmail.com" className=" btn btn-base-content md:w-fit">
