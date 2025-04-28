@@ -34,7 +34,7 @@ const experiences = [
         id: 1,
         role: "Développeuse Web Freelance",
         company: " Remote",
-        period: "Janvier 2024 - Aujourd'hui 2023 ",
+        period: "Janvier 2024 - Aujourd'hui 2025 ",
         description: [
             "Création d’APIs REST en Laravel et Express.js pour des projets clients (gestion de tâches, CRM léger) ",
             "Développement d'interfaces utilisateur avec React et Tailwind CSS",
@@ -45,13 +45,16 @@ const experiences = [
     },
     {
         id: 2,
-        role: "Testeur de Logiciel, Développeuse outils internes",
+        role: "Administratrice de systèmes et de bases de données",
         company: "KH INDUSTRIE",
         period: "Mars 2020 - Juillet 2023",
         description: [
-            "Développement de scripts web pour automatiser l’administration des bases de données",
-            "Création d'interfaces simples avec Flask/Django pour le monitoring de services",
-            "Participation à la digitalisation des processus internes via des outils web (dashboards, reporting)",
+            "Création, configuration et administration de bases PostgreSQL et MySQL en environnement virtualisé multi-datacenters (Linux, Docker) ",
+            "Mise en œuvre et personnalisation des systèmes de gestion de bases de données ",
+            "Exploitation des serveurs de bases de données : automatisation des tâches (scripts Bash, PowerShell), contrôle des accès, optimisation des requêtes et traitements",
+            "Développement d’outils internes pour faciliter l’exploitation (scripts de monitoring, rapports de performance, alerting)",
+            "Participation active aux comités de suivi de projet (daily meetings)",
+            "Intervention sur différents environnements : Recette, Préprod, Production",
             
         ],
         //image: meta,
